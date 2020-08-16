@@ -2,7 +2,14 @@ body {
 background-color: #cbc0eb;
 font-family: cursive;
 margin-top: 90px;
+color: #fff;
+  text-align: center;
+  justify-content: center;
 }
 img {
 border-radius: 30px;
+}
+a {
+color: #fff;
+  text-decoration: none;
 }
